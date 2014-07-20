@@ -1,7 +1,7 @@
 Noto Font
 ===============
 
-Android app which download "Noto Font" from Google.
+Android app which download "Noto Font" from Google.<br>
 "Noto Font" is the open source font which Google published. <br>
 http://www.google.com/get/noto/
 
