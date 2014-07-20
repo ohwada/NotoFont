@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Noto Font</string>
+    <string name="button_download">フォントをダウンロードする</string>
+
+<!-- dialog dowload -->
+    <string name="button_close">閉じる</string>
+    <string name="dialog_download_title">フォントを選択する</string> 
+
+<!-- dialog font -->
+    <string name="dialog_font_title">フォント</string> 
+    <string name="dialog_font_default_label">標準フォント</string> 
+    <string name="dialog_font_error">フォントがない</string> 
+    <string name="dialog_font_sample">The quick brown fox jumps over the lazy dog</string>
+    <string name="dialog_font_sample_ja">色はにほへど 散りぬるを 我が世たれぞ 常ならむ 有為の奥山 今日越えて 浅き夢見じ 酔ひもせず</string>
+
+<!-- dialog alert -->
+    <string name="dialog_alert_title">注意</string> 
+    <string name="dialog_alert_message">すでにダウンロードしたファイルがあります.\nダウンロードしますか？</string> 
+    <string name="button_yes">はい</string>
+    <string name="button_no">いいえ</string>
+
+<!-- toast -->
+    <string name="downloading">ダウンロード中 ...</string>
+    <string name="downloaded">ダウンロードしました</string>
+                
+</resources>

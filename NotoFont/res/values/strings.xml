@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Noto Font</string>
+    <string name="button_download">Download Font</string>
+
+<!-- dialog dowload -->
+    <string name="button_close">Close</string>
+    <string name="dialog_download_title">Select Font</string> 
+
+<!-- dialog font -->
+    <string name="dialog_font_title">Font</string> 
+    <string name="dialog_font_default_label">default font</string> 
+    <string name="dialog_font_error">font is null</string> 
+    <string name="dialog_font_sample">The quick brown fox jumps over the lazy dog</string>
+    <string name="dialog_font_sample_ja"></string>
+        
+<!-- dialog alert -->
+    <string name="dialog_alert_title">Alert</string> 
+    <string name="dialog_alert_message">There is an already downloaded file.\nDo you download?</string> 
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+
+<!-- toast -->
+    <string name="downloading">Downloading ...</string>
+    <string name="downloaded">Downloaded</string>
+                
+</resources>
